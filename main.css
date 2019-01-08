@@ -13,6 +13,7 @@ body {
     max-width: 100%;
     height: auto;
     text-align: center;
+    display: block;
 }
 
 #title {
@@ -27,7 +28,15 @@ body {
     background-color: white;
     max-width: 100%;
     height: auto;
-    align-self: center;
+    align-items: center;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  align-self: center;
+  margin: auto;
 }
 
 #img-caption {
