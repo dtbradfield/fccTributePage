@@ -1,0 +1,62 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: lightgray;
+    width: 100vw;
+    height: auto;
+    display: flex;
+    align-items: center;
+    justify-items: center;
+}
+
+#card {
+    background-color: lightgray;
+    max-width: 100%;
+    height: auto;
+    text-align: center;
+}
+
+#title {
+    font-size: 32px;
+}
+
+#subtitle {
+    font-size: 16px;
+}
+
+#img-div {
+    background-color: white;
+    max-width: 100%;
+    height: auto;
+    align-self: center;
+}
+
+#img-caption {
+    font-size: 14px;
+}
+
+#tribute-info {
+    background-color: lightgrey;
+    text-align: center;
+    font-size: 24px;
+}
+
+#timeline {
+    font-size: 20px;
+    text-align: left;
+    padding-left: 27%;
+    padding-right: 27%;
+}
+
+#quote-mode {
+    font-style: italic;
+    font-size: 23px;
+}
+
+#link-to-wiki {
+    font-style: normal;
+    font-size: 27px;
+}
+
+#tribute-link {
+    text-decoration-color: blue;
+}
